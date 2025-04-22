@@ -6,7 +6,7 @@ Analisis ini dilakukan menggunakan Jupyter Notebook dengan library Python beriku
 [![Pandas](https://img.shields.io/badge/Pandas-2.1+-lightgrey)](https://pandas.pydata.org/) 
 [![NumPy](https://img.shields.io/badge/NumPy-1.26+-blueviolet)](https://numpy.org/) 
 [![Plotly](https://img.shields.io/badge/Plotly-5.19+-darkorange)](https://plotly.com/python/) 
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.8+-#1f77b4)](https://matplotlib.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.8+-yellow)](https://matplotlib.org/)
 
 
 ## Profitabilitas Pelanggan (Customer Profitability)
